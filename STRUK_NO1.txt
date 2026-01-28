@@ -1,0 +1,7 @@
+=== STRUK PENJUALAN ===
+Nota : NO1
+Pelanggan : P02 - Ranuh
+
+Teh pucuk x100 = 400000
+
+Total: 400000
